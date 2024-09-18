@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kira milkyway/Documents/GitHub/parasitegame/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/parasitegame/MyProject/Content/Levels/Map.umap",
 				"C:/Users/kira milkyway/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/kira milkyway/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/kira milkyway/Documents/Unreal Projects/MyProject/Content/RetroShadersV4/RetroShader/BP_RetroPostProcess.uasset",
